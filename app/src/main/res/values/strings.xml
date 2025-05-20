@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToDoListo</string>
+    <string name="add_task">Добавить задачу</string>
+</resources>
